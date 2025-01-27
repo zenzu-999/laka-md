@@ -1,0 +1,37 @@
+{
+  "name": "LAKA-MD-V1",
+  "description": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ 🐣🖇️",
+  "logo": "https://i.ibb.co/sKmDFhk/7919.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+      
+    },
+    "MONGODB": {
+      "description": "Put your MongoDB Database URL here.",
+      "required": true,
+      "default": ""
+
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner Number.",
+      "required": true,
+      "default": "94781121579"
+      
+    }
+ 
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
