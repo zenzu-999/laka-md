@@ -51,7 +51,7 @@ You will need a session ID to run the LAKA=MD. Click the button below to obtain 
 
 You can deploy this bot for free on the following platforms:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lakaofc/laka-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md%2Ftree%2Fmain%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2F)
 
 [<img src='https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white' width=150 height=28 />](https://replit.com/github//lakaofc/laka-md)
 
